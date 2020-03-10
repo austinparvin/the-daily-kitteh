@@ -4,9 +4,99 @@
 
 html {
   height: 100%;
+  background-color: #018AA1;
+  display: flex;
+  justify-content: center;
 }
 
 body {
+  margin: .5rem;
+  background: #DDF2F3;
+  color: #415567;
+  max-width: 60%;
+  height: 65vh;
+}
+
+h1 {
   margin: 0;
-  min-height: 100%;
+  padding: 1rem;
+  margin-top: .5rem;
+  text-align: center;
+  font-family: serif;
+  font-weight: lighter;
+  align-items: center;
+}
+
+h3 {
+  margin: 0;
+  padding-top: .5rem;
+}
+
+main {
+  display: flex;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background-color: #00BFD5;
+  padding: 1rem;
+}
+
+section.kittehs-of-the-day {
+  border: .05rem solid #1591A7;
+  padding: .25rem;
+  margin: 1.5rem;
+  margin-top: 1rem;
+}
+
+section.kittehs-of-the-day img {
+  width: 15vw;
+  height: auto;
+}
+
+p {
+  color: #000;
+}
+
+main {
+  padding-right: 1rem;
+}
+
+nav ul {
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+nav li {
+  list-style: none;
+  text-decoration: underline;
+}
+
+footer {
+  display: flex;
+  ;
+  margin: 0;
+  background-color: #D3D3D3;
+  padding: 1rem;
+  justify-content: center;
+}
+
+footer ul {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+
+footer li {
+  list-style: none;
+  text-decoration: underline;
 }
