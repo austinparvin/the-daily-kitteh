@@ -71,6 +71,6 @@ This is a static html website.
  
 ## Live Site
 
-[LIVE SITE](https://disc-golf-austinparvin.netlify.app/)
+[LIVE SITE](https://the-daily-kitteh-austinparvin.netlify.app/)
 
 ![Daily Kitteh](https://i.imgur.com/Hggxd8B.png)
